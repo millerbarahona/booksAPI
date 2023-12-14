@@ -1,6 +1,6 @@
 package com.example.books.book.body;
 
-import com.example.books.book.model.Book;
+import com.example.books.model.Book;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
